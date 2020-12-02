@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Test-Todo-React/static/css/main.694a1ae8.chunk.css",
-    "main.js": "/Test-Todo-React/static/js/main.1ac5adb2.chunk.js",
-    "main.js.map": "/Test-Todo-React/static/js/main.1ac5adb2.chunk.js.map",
+    "main.js": "/Test-Todo-React/static/js/main.0c525bbe.chunk.js",
+    "main.js.map": "/Test-Todo-React/static/js/main.0c525bbe.chunk.js.map",
     "runtime-main.js": "/Test-Todo-React/static/js/runtime-main.50790786.js",
     "runtime-main.js.map": "/Test-Todo-React/static/js/runtime-main.50790786.js.map",
-    "static/js/2.59b893c7.chunk.js": "/Test-Todo-React/static/js/2.59b893c7.chunk.js",
-    "static/js/2.59b893c7.chunk.js.map": "/Test-Todo-React/static/js/2.59b893c7.chunk.js.map",
+    "static/js/2.c2c17d96.chunk.js": "/Test-Todo-React/static/js/2.c2c17d96.chunk.js",
+    "static/js/2.c2c17d96.chunk.js.map": "/Test-Todo-React/static/js/2.c2c17d96.chunk.js.map",
     "index.html": "/Test-Todo-React/index.html",
     "static/css/main.694a1ae8.chunk.css.map": "/Test-Todo-React/static/css/main.694a1ae8.chunk.css.map",
-    "static/js/2.59b893c7.chunk.js.LICENSE.txt": "/Test-Todo-React/static/js/2.59b893c7.chunk.js.LICENSE.txt"
+    "static/js/2.c2c17d96.chunk.js.LICENSE.txt": "/Test-Todo-React/static/js/2.c2c17d96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.50790786.js",
-    "static/js/2.59b893c7.chunk.js",
+    "static/js/2.c2c17d96.chunk.js",
     "static/css/main.694a1ae8.chunk.css",
-    "static/js/main.1ac5adb2.chunk.js"
+    "static/js/main.0c525bbe.chunk.js"
   ]
 }
